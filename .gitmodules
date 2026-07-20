@@ -1,0 +1,6 @@
+[submodule "ihcei-ecosystem"]
+	path = ihcei-ecosystem
+	url = https://github.com/evmotorcycles/ihcei-ecosystem.git
+[submodule "GOVPHYS_PAT"]
+	path = GOVPHYS_PAT
+	url = https://github.com/evmotorcycles/GOVPHYS_PAT.git
